@@ -38,6 +38,10 @@ android/app/*.keystore
 android/app/*.jks
 android/app/*.gpg
 android/app/google-services.json
+android/build.gradle
+android/build.gradle.kts
+android/app/build.gradle
+android/app/build.gradle.kts
 
 # iOS
 ios/Pods/
